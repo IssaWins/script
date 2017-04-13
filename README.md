@@ -1,0 +1,2 @@
+# script
+a new script
